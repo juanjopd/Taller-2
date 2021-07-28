@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cliente.component.css']
 })
 export class ClienteComponent{
-
-  cliente = "Don amable"
+  nombre = "Taller 2"
 
 }
